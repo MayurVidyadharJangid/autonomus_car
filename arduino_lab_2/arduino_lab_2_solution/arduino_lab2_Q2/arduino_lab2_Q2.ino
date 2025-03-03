@@ -5,7 +5,7 @@ void setup() {
 	
 	pinMode(pin_LED,OUTPUT); // config LED pin as output
 	pinMode(3,INPUT_PULLUP); // config pin 3 (ie D3) as input
-	
+	// testing 
 	Serial.begin(115200); 
 }
 
